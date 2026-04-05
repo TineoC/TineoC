@@ -10,7 +10,11 @@
 I am a **Software & DevOps Engineer** at [Game Plan Tech](https://gameplan.tech), passionate about building resilient, scalable systems and contributing to the open-source ecosystem. I specialize in **Platform Engineering**, **GitOps**, and **Kubernetes automation**.
 
 - 🛠️ **Currently focused on**: Scaling cloud infrastructure with **Terraform** and **ArgoCD**.
-- ☸️ **Community**: Active contributor to the **Kubernetes Contributor Site** and **KCD New York**.
+- ☸️ **Community & Leadership**: 
+  - Organizer at **KCD New York 2026** 🗽
+  - Organizer at **Cloud Native SDQ** 🇩🇴
+  - Organizer at **Cloud Native New York City** 🏙️
+  - Active contributor to the **Kubernetes Contributor Site** ☸️
 - 🚀 **Mission**: Automating everything to make developer lives easier.
 
 ---
