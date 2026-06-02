@@ -1,8 +1,8 @@
-# Hi there, I'm Christopher Tineo! 👋
-
-<p align="left">
+<p align="center">
   [![DevStats](https://devstats.app/?username=tineoc&theme=light)](https://github.com/Skarlso/devstats)
 </p>
+
+# Hi there, I'm Christopher Tineo! 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Cloud%20Native-blue?style=for-the-badge&logo=cloudnativecomputingfoundation&logoColor=white" />
