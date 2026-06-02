@@ -2,7 +2,7 @@
 
 # Hi, I'm Christopher Tineo 👋
 
-![DevStats](https://devstats.app/?username=tineoc&theme=dark)
+![DevStats](https://devstats.app/?username=tineoc&theme=tokyonight)
 
 </div>
 
