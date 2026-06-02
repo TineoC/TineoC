@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tineoc&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.vercel.app/?user=tineoc&theme=tokyonight&hide_border=true" />
   <img src="https://komarev.com/ghpvc/?username=tineoc&color=tokyonight&style=flat" />
 </div>
 
