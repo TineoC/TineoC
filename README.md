@@ -1,6 +1,10 @@
 # Hi there, I'm Christopher Tineo! 👋
 
 <p align="left">
+  <a href="https://github.com/Skarlso/devstats"><img src="https://devstats.app/?username=tineoc&theme=light" alt="DevStats" /></a>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/-Cloud%20Native-blue?style=for-the-badge&logo=cloudnativecomputingfoundation&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Open%20Source-F05032?style=for-the-badge&logo=git&logoColor=white" />
