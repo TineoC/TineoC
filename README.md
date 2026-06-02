@@ -2,8 +2,6 @@
 
 # Hi, I'm Christopher Tineo 👋
 
-![DevStats](https://devstats.app/?username=tineoc&theme=tokyonight)
-
 </div>
 
 ---
@@ -47,7 +45,7 @@
 
 <div align="center">
   <img src="https://streak-stats.vercel.app/?user=tineoc&theme=tokyonight&hide_border=true" />
-  <img src="https://komarev.com/ghpvc/?username=tineoc&color=tokyonight&style=flat" />
+  <img src="https://devstats.app/?username=tineoc&theme=tokyonight" />
 </div>
 
 ---
