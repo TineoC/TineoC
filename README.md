@@ -39,8 +39,8 @@ I am a **Software & DevOps Engineer** at [Game Plan Tech](https://gameplan.tech)
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TineoC&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TineoC&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tineoc&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tineoc&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -50,5 +50,3 @@ I am a **Software & DevOps Engineer** at [Game Plan Tech](https://gameplan.tech)
 - **LinkedIn**: [in/christopher-tineo](https://www.linkedin.com/in/christopher-tineo/)
 - **Twitter**: [@tineo_christ](https://twitter.com/tineo_christ)
 - **Email**: [christopher@gameplan.tech](mailto:christopher@gameplan.tech)
-
-*"Automate the boring stuff so we can build the future."*
