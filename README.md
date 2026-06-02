@@ -1,7 +1,7 @@
 # Hi there, I'm Christopher Tineo! 👋
 
 <p align="left">
-  <a href="https://github.com/Skarlso/devstats"><img src="https://devstats.app/?username=tineoc&theme=light" alt="DevStats" /></a>
+  [![DevStats](https://devstats.app/?username=tineoc&theme=light)](https://github.com/Skarlso/devstats)
 </p>
 
 <p align="left">
