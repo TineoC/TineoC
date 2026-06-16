@@ -61,4 +61,4 @@
 
 - **LinkedIn**: [in/christopher-tineo](https://www.linkedin.com/in/christopher-tineo/)
 - **Twitter**: [@tineo_christ](https://twitter.com/tineo_christ)
-- **Email**: [christopher@gameplan.tech](mailto:christopher@gameplan.tech)
+- **Email**: [christophertineo02@gmail.com](mailto:christophertineo02@gmail.com)
