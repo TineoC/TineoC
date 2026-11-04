@@ -73,15 +73,15 @@ Updated automatically from [Credly](https://www.credly.com/users/christopher-tin
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tineoc&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tineoc&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="assets/stats.svg" alt="GitHub stats" />
+  <img height="180" src="assets/langs.svg" alt="Most used languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=tineoc&theme=tokyonight&hide_border=true" />
-  <img src="https://devstats.app/?username=tineoc&theme=tokyonight" />
+  <img src="https://streak-stats.vercel.app/?user=tineoc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://devstats.app/?username=tineoc&theme=tokyonight" alt="CNCF DevStats" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ Updated automatically from [Credly](https://www.credly.com/users/christopher-tin
 ## 🚀 Featured Projects
 
 - **[contributor-site](https://github.com/kubernetes/contributor-site)**: Contributing to the documentation and platform for the global Kubernetes community.
-- **[KCD New York](https://github.com/kcd-new-york)**: Managing the site and infrastructure for the Kubernetes Community Day NYC.
+- **[KCD New York](https://github.com/cloudcommunitylabs/kcd-new-york)**: Managing the site and infrastructure for the Kubernetes Community Day NYC.
 
 ---
 

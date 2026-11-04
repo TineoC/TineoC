@@ -1,0 +1,18 @@
+query($login: String!, $endCursor: String) {
+  user(login: $login) {
+    name
+    contributionsCollection { totalCommitContributions }
+    pullRequests { totalCount }
+    issues { totalCount }
+    repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE]) { totalCount }
+    repositories(first: 100, after: $endCursor, ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false) {
+      pageInfo { hasNextPage endCursor }
+      nodes {
+        stargazerCount
+        languages(first: 10, orderBy: { field: SIZE, direction: DESC }) {
+          edges { size node { name color } }
+        }
+      }
+    }
+  }
+}

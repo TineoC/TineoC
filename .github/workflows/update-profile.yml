@@ -1,8 +1,8 @@
-name: Update Credly badges
+name: Update profile
 
 on:
   schedule:
-    - cron: '17 6 * * 1'
+    - cron: '17 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,25 +13,31 @@ defaults:
   run:
     shell: bash
 
+env:
+  GH_TOKEN: ${{ github.token }}
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - name: Render badges
+      - name: Render Credly badges
         run: |
           curl -fsS -H 'Accept: application/json' \
             'https://www.credly.com/users/christopher-tineo/badges.json' \
             | bash .github/credly.sh README.md
+      - name: Render stats cards
+        run: |
+          gh api graphql --paginate -F query=@.github/stats.graphql -f login=TineoC \
+            | bash .github/stats.sh assets
       - name: Commit if changed
         run: |
-          git diff --quiet && exit 0
+          git add README.md assets
+          git diff --cached --quiet && exit 0
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am 'chore: update Credly badges'
+          git commit -m 'chore: update profile stats and badges'
           git push
       # GitHub disables schedules after 60 days without repo activity.
       - name: Keep schedule enabled
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh workflow enable credly.yml
+        run: gh workflow enable update-profile.yml
